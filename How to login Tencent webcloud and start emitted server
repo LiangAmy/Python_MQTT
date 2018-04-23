@@ -102,10 +102,8 @@ admins del <Username>                           # Delete dashboard user
 $client/Tencent  web
 
 
-
-
-
-
+You can use mqttfx soft(https://en.freedownloadmanager.org/Windows-PC/MQTT-fx-FREE.html) debugging this founction, 
+like Subscribe a topic, publish a topic and so on.
 
 
 
